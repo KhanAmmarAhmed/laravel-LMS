@@ -1,0 +1,1 @@
+<p>{!! nl2br(e($details['body'])) !!}</p>
